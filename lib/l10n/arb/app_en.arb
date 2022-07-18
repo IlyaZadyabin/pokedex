@@ -1,0 +1,50 @@
+{
+    "allPokemons": "All Pokemons",
+    "@allPokemons": {
+        "description": "Home screen tab title"
+    },
+    "favorites": "Favorites",
+    "@helloWorld": {
+        "description": "Home screen tab title"
+    },
+    "noFavorites": "No favorites",
+    "@noFavorites": {
+        "description": "No favorite alert in favorites screen"
+    },
+    "pokedex": "Pokedex",
+    "@pokedex": {
+        "description": "App name"
+    },
+    "height": "Height",
+    "@height": {
+        "description": "Height parameter"
+    },
+    "weight": "Weight",
+    "@weight": {
+        "description": "Weight parameter"
+    },
+    "bmi": "BMI",
+    "@bmi": {
+        "description": "Body mass index parameter"
+    },
+    "markAsFavorite": "Mark as favorite",
+    "@markAsFavorite": {
+        "description": "Mark as favorite button"
+    },
+    "baseStats": "Base stats",
+    "@baseStats": {
+        "description": "Base stats title"
+    },
+    "removeFromFavorites": "Remove from favorites",
+    "@removeFromFavorites": {
+        "description": "Remove from favorites button"
+    },
+    "averagePower": "Average power",
+    "@averagePower": {
+        "description": "Average power parameter"
+    },
+    "errorFetchingPokemons": "Error fetching pokemons",
+    "@errorFetchingPokemons": {
+        "description": "Error fetching pokemons"
+    }
+}
